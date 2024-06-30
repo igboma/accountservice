@@ -1,2 +1,2 @@
 # accountservice
-The account service
+The account service manager
